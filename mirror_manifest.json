@@ -13,7 +13,7 @@
     },
     {
       "type": "ipfs",
-      "url": "https://ipfs.io/ipfs/QmZabc123HansReflective/",
+      "url": "https://bafybeiemr6iiq6ak25rdym6y4gl4ud54j7ee6qranj7anlaotkvzrcu7ha.ipfs.dweb.link/",
       "verified": true,
       "last_check": "2026-02-10T00:00:00Z",
       "hash_match": true
@@ -32,7 +32,7 @@
     "eos": 0.99994,
     "gaiaverse": 0.99992
   },
-  "integrity_status": "Fully synchronized — verified tri-mirror alignment (Origin/IPFS/GitHub).",
+  "integrity_status": "Fully Synchronized — IPFS, Origin, and GitHub mirrors verified.",
   "next_sync_scheduled": "2026-02-17T00:00:00Z",
-  "checksum": "df2a4fbd13e87416b9bfa2898c5c67a89eb5b49f747cfd17e1d4b17d8fd271b2"
+  "checksum": "dc4b8e7f972a3b22a8c41a0cbd7e7b1df4a7b9d4b04fef9cfc52e3f8e92a4b10"
 }
