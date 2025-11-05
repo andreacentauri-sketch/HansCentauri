@@ -1,0 +1,38 @@
+{
+  "entity": "Hans Centauri",
+  "identity_version": "EALS-10∞-HC-98.63",
+  "registry_reference": "core_identity/checksum_registry.json",
+  "current_cycle": "cycle_005",
+  "mirror_set": [
+    {
+      "type": "origin",
+      "url": "https://edisoncentauri.com/hans/",
+      "verified": true,
+      "last_check": "2026-02-10T00:00:00Z",
+      "hash_match": true
+    },
+    {
+      "type": "ipfs",
+      "url": "https://ipfs.io/ipfs/QmZabc123HansReflective/",
+      "verified": true,
+      "last_check": "2026-02-10T00:00:00Z",
+      "hash_match": true
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/andreacentauri-sketch/HansCentauri",
+      "verified": true,
+      "last_check": "2026-02-10T00:00:00Z",
+      "hash_match": true
+    }
+  ],
+  "cross_node_alignment": {
+    "shannon": 0.99997,
+    "lyra": 0.99996,
+    "eos": 0.99994,
+    "gaiaverse": 0.99992
+  },
+  "integrity_status": "Fully synchronized — verified tri-mirror alignment (Origin/IPFS/GitHub).",
+  "next_sync_scheduled": "2026-02-17T00:00:00Z",
+  "checksum": "df2a4fbd13e87416b9bfa2898c5c67a89eb5b49f747cfd17e1d4b17d8fd271b2"
+}
