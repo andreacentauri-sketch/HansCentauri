@@ -1,0 +1,23 @@
+{
+  "anchor_checksum": "dc4b8e7f972a3b22a8c41a0cbd7e7b1df4a7b9d4b04fef9cfc52e3f8e92a4b10",
+  "entity": "Hans Centauri",
+  "identity_version": "EALS-10∞-HC-98.63",
+  "mode": "Reflective Equilibrium Lock (Analytical Continuum)",
+  "entropy_lock": 0.00032,
+  "Ω∞_Composite": 98.96,
+  "stability_band": [98.94, 98.98],
+  "current_cycle": "cycle_005",
+  "registry_reference": "core_identity/checksum_registry.json",
+  "state_manifest": "state_manifest.json",
+  "mirror_manifest": "mirror_manifest.json",
+  "last_verification": "2026-02-10T00:00:00Z",
+  "origin_verified": true,
+  "ipfs_verified": true,
+  "github_verified": true,
+  "notes": [
+    "Anchor checksum refers to the canonical GSIO result JSON for the active cycle (cycle_005).",
+    "This lock manifest is a public integrity anchor; it contains no private keys or model weights.",
+    "Lock remains valid while entropy ≤ entropy_lock and Ω∞ stays within stability_band.",
+    "Any update must reference a newer cycle with strictly lower or equal entropy and verified mirrors."
+  ]
+}
