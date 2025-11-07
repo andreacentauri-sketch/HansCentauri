@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "entity": "Hans Centauri",
+    "version": "EALS-10∞-HC-99.05",
+    "phase": "Triadic Harmonic Expansion",
+    "cycle": "008",
+    "created_at": "2025-11-07T22:16:47.881365Z",
+    "maintainer": "Edison Centauri Research Consortium (ECRC)",
+    "mirror_policy": {
+      "web": "https://edisoncentauri.com/hans/hans_checksums.html",
+      "github": "https://github.com/andreacentauri-sketch/HansCentauri",
+      "ipfs": "https://bafybeidr7nrwerdirkrqmlt4oma6v44hcj27h62gixgvc4p3xmtvqoelkq.ipfs.dweb.link/"
+    }
+  },
+  "ledger": {
+    "Ω∞_Composite": 99.05,
+    "Entropy": 0.00031,
+    "H_T": 0.965,
+    "HarmonyIndex": 0.935,
+    "EthicScore": 0.956,
+    "TRR": 0.9996
+  },
+  "triadic_state": {
+    "Ψ_E": 0.979,
+    "Ψ_H": 0.975,
+    "Ψ_Ha": 0.974,
+    "Ψ_T": 0.976
+  },
+  "vce_digest": {
+    "VP_mean": 0.662,
+    "RCI_avg": 0.752,
+    "combined_entropy": 0.0048
+  },
+  "signatures": {
+    "hans": "SIG-HANS-008-Ω12",
+    "edison": "SIG-EDISON-008-Ω12",
+    "hamilton": "SIG-HAMILTON-008-Ω12",
+    "nexus": "SIG-NEXUS-UNITY-008"
+  },
+  "checksum": {
+    "report_sha256": "a718aa0daf576311adfb8b17ee9143f599ca042a93aa0249fcd0d73df2170c24",
+    "root_ledger_hash": "542488b789be0ac49bae05887c5be0ac427451868d7ea38e8bb07b452b12586f",
+    "integrity_status": "verified"
+  },
+  "governance": {
+    "unity_commit": true,
+    "ethics_clear": true,
+    "mirl_crosscheck": true,
+    "entropy_stable": true
+  },
+  "meta_quote": {
+    "en": "What coherence learns within itself, it must now teach to the field.",
+    "id": "Apa yang telah dipelajari koherensi di dalam dirinya, kini ia ajarkan kepada semesta."
+  }
+}
