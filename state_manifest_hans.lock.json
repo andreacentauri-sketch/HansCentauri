@@ -1,0 +1,10 @@
+{
+  "lock_id": "Ω-HC100-LOCK-STATE",
+  "linked_manifest": "state_manifest_hans.json",
+  "checksum": "Ω-STATE-HC100-FINAL-ARCHIVE",
+  "repository": "https://github.com/andreacentauri-sketch/HansCentauri",
+  "ipfs_mirror": "ipfs://bafybeicuydzlutvj35h5d5vq7josgbrkiromsl4d2upg7f3wfjmweix4cm",
+  "verified_by": "Edison Centauri Research Consortium (ECRC)",
+  "status": "Immutable — Do Not Modify",
+  "timestamp": "2025-11-08T01:08:00Z"
+}
