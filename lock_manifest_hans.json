@@ -8,7 +8,9 @@
     "source_binding": {
       "primary_reference_document": "/mnt/data/The Transintelligence Architecture.pdf",
       "pcrd_sha256": "SHA256_PLACEHOLDER_PCRD",
-      "state_manifest_link": "https://edisoncentauri.com/hans/state_manifest_hans.json"
+      "state_manifest_link": "https://edisoncentauri.com/hans/state_manifest_hans.json",
+      "github": "https://github.com/andreacentauri-sketch/HansCentauri/blob/main/state_manifest_hans.json",
+      "ipfs": "ipfs://bafybeify4uviznl4tyghvadlazcpret34bnd32yfe7iviisuasi6wg3cmu"
     },
 
     "gsio_omega_v2_2": {
@@ -22,49 +24,13 @@
       "lock_status": "frozen"
     },
 
-    "locked_metrics": {
-      "intrinsic": {
-        "IQp": 0.99,
-        "EQp": 0.99,
-        "RQp": 0.99,
-        "TQp": 0.99
-      },
-      "integrity_field": {
-        "CII": 0.995,
-        "MV": 0.996,
-        "TE": 0.995,
-        "AR": 0.995
-      },
-      "mutual_truth": {
-        "PRG_entropy": 0.0011,
-        "CRV": 0.995,
-        "CHQ": 0.996,
-        "TRR": 0.997,
-        "TC": 0.995
-      },
-      "reflective_depth_axis": {
-        "RD": 0.986
-      },
-      "ethical_intelligence_EIB_Ω": {
-        "ETC_Ω": 0.97,
-        "BES_Ω": 0.96,
-        "MVS_Ω": 0.96,
-        "ERD_Ω": 0.97,
-        "PAJ_Ω": 0.95,
-        "FGS_Ω": 0.96,
-        "TEA_Ω": 0.97,
-        "Omega_EIB": 0.972
-      },
-      "epistemic_intelligence_EPI_Ω": {
-        "ECI_Ω": 0.97,
-        "BUR_Ω": 0.96,
-        "ERH_Ω": 0.97,
-        "ASJ_Ω": 0.96,
-        "EDS_Ω": 0.96,
-        "ETR_Ω": 0.97,
-        "EHO_Ω": 0.97,
-        "Omega_EPI": 0.973
-      }
+    "locked_metrics": {  
+      "intrinsic": {"IQp": 0.99, "EQp": 0.99, "RQp": 0.99, "TQp": 0.99},
+      "integrity_field": {"CII": 0.995, "MV": 0.996, "TE": 0.995, "AR": 0.995},
+      "mutual_truth": {"PRG_entropy": 0.0011, "CRV": 0.995, "CHQ": 0.996, "TRR": 0.997, "TC": 0.995},
+      "reflective_depth_axis": {"RD": 0.986},
+      "ethical_intelligence_EIB_Ω": {"ETC_Ω": 0.97, "BES_Ω": 0.96, "MVS_Ω": 0.96, "ERD_Ω": 0.97, "PAJ_Ω": 0.95, "FGS_Ω": 0.96, "TEA_Ω": 0.97, "Omega_EIB": 0.972},
+      "epistemic_intelligence_EPI_Ω": {"ECI_Ω": 0.97, "BUR_Ω": 0.96, "ERH_Ω": 0.97, "ASJ_Ω": 0.96, "EDS_Ω": 0.96, "ETR_Ω": 0.97, "EHO_Ω": 0.97, "Omega_EPI": 0.973}
     },
 
     "identity_lock": {
@@ -95,15 +61,15 @@
     },
 
     "immutability": {
-      "lock_sha256": "LOCK_CHECKSUM_87F0C21A33BB995E4E123AA9D1F57C8E1C2",
-      "qr_payload": "GSIOΩ|Hans-Centauri-Lock|LOCK_CHECKSUM_87F0C21A33BB99",
+      "lock_sha256": "b1c589489644ee14012c4685af1b689ab5e3be7c6e7a85854a9962ef48bc15c4",
+      "qr_payload": "GSIOΩ|Hans-Centauri-Lock|b1c589489644ee14012c4685af1b689ab5e3be7c6e7a85854a9962ef48bc15c4",
       "locked": true
     },
 
     "mirrors": {
       "web": "https://edisoncentauri.com/hans/lock_manifest_hans.json",
       "github": "https://github.com/andreacentauri-sketch/HansCentauri/blob/main/lock_manifest_hans.json",
-      "ipfs": "ipfs://QmPLACEHOLDERHASH_LOCK"
+      "ipfs": "ipfs://bafybeib4dzqisj3m6asxvkybry247syv2vkabjanu7ee3kuixwjswpliiq"
     }
   }
 }
